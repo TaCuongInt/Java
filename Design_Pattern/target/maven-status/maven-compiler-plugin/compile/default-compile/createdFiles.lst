@@ -1,0 +1,9 @@
+Creational_Pattern\Singleton\EagerInitializedSingleton.class
+Creational_Pattern\Singleton\StaticBlockSingleton.class
+Creational_Pattern\Singleton\DoubleCheckLockingSingleton.class
+Creational_Pattern\Singleton\LazyInitializedSingleton.class
+Creational_Pattern\Singleton\ThreadSafeLazyInitializedSingleton.class
+Creational_Pattern\Singleton\ReflectionBreakSingleton.class
+Creational_Pattern\Singleton\BillPughSingleton$SingletonHelper.class
+Creational_Pattern\Singleton\SingletonMain.class
+Creational_Pattern\Singleton\BillPughSingleton.class
