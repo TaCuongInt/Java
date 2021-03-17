@@ -5,8 +5,8 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 public class ReflectionBreakSingleton {
-    public static void main(String[] args)
-        throws InstantiationException, IllegalAccessException, InvocationTargetException{
+    public static void main(String[] args)throws InstantiationException, IllegalAccessException, InvocationTargetException{
+        
             EagerInitializedSingleton INSTANCE1 = EagerInitializedSingleton.getInstance();
             EagerInitializedSingleton INSTANCE2 = null;
             
