@@ -1,5 +1,5 @@
 
-package Abstract_Factory;
+package Creational_Pattern.Abstract_Factory;
 
 public class FurnitureFactory {
     private FurnitureFactory () {}

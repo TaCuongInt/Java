@@ -1,5 +1,5 @@
 
-package Abstract_Factory;
+package Creational_Pattern.Abstract_Factory;
 
 public class PlasticChair implements Chair {
     @Override
